@@ -24,6 +24,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
 
 # vercel
 .vercel
@@ -31,3 +32,18 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Database and sensitive data files
+data/
+billing-payments.json
+user-preferences.json
+startup.log
+debug_payment.log
+
+# Debug scripts
+debug-*.js
+debug-*.mjs
+clean-*.js
+create-test-*.js
+reset_*.js
+generate-*.js
