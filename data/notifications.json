@@ -1,0 +1,1018 @@
+[
+  {
+    ".id": "*84E3",
+    "time": "2025-12-10 10:33:05",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS02-KatujiTretes/hd : connected",
+    "username": "MGS02-KatujiTretes/hd",
+    "status": "connected"
+  },
+  {
+    ".id": "*84DF",
+    "time": "2025-12-10 10:33:04",
+    "topics": "pppoe,ppp,info",
+    "message": "09*PurTosari : connected",
+    "username": "09*PurTosari",
+    "status": "connected"
+  },
+  {
+    ".id": "*84DB",
+    "time": "2025-12-10 10:33:03",
+    "topics": "pppoe,ppp,info",
+    "message": "WiwisTretes/hd : connected",
+    "username": "WiwisTretes/hd",
+    "status": "connected"
+  },
+  {
+    ".id": "*84D4",
+    "time": "2025-12-10 10:33:01",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS02-BajaTretes/hd : connected",
+    "username": "MGS02-BajaTretes/hd",
+    "status": "connected"
+  },
+  {
+    ".id": "*84CF",
+    "time": "2025-12-10 10:33:01",
+    "topics": "pppoe,ppp,info",
+    "message": "JaminTretes/hd : connected",
+    "username": "JaminTretes/hd",
+    "status": "connected"
+  },
+  {
+    ".id": "*84CB",
+    "time": "2025-12-10 10:33:00",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS02-NurKasan : connected",
+    "username": "MGS02-NurKasan",
+    "status": "connected"
+  },
+  {
+    ".id": "*84C8",
+    "time": "2025-12-10 10:33:00",
+    "topics": "pppoe,ppp,info",
+    "message": "binaprestasi : connected",
+    "username": "binaprestasi",
+    "status": "connected"
+  },
+  {
+    ".id": "*84B9",
+    "time": "2025-12-10 10:32:55",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-KR-MiniKarang : connected",
+    "username": "TKL-KR-MiniKarang",
+    "status": "connected"
+  },
+  {
+    ".id": "*84AF",
+    "time": "2025-12-10 10:32:54",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS01-MbahGali : connected",
+    "username": "MGS01-MbahGali",
+    "status": "connected"
+  },
+  {
+    ".id": "*84AB",
+    "time": "2025-12-10 10:32:53",
+    "topics": "pppoe,ppp,info",
+    "message": "09*KlowongJobang : connected",
+    "username": "09*KlowongJobang",
+    "status": "connected"
+  },
+  {
+    ".id": "*84A7",
+    "time": "2025-12-10 10:32:53",
+    "topics": "pppoe,ppp,info",
+    "message": "rakim : connected",
+    "username": "rakim",
+    "status": "connected"
+  },
+  {
+    ".id": "*84A3",
+    "time": "2025-12-10 10:32:52",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-locoo : connected",
+    "username": "TKL00-locoo",
+    "status": "connected"
+  },
+  {
+    ".id": "*849F",
+    "time": "2025-12-10 10:32:51",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-sdn1tangkil : connected",
+    "username": "TKL00-sdn1tangkil",
+    "status": "connected"
+  },
+  {
+    ".id": "*8498",
+    "time": "2025-12-10 10:32:50",
+    "topics": "pppoe,ppp,info",
+    "message": "sukro : connected",
+    "username": "sukro",
+    "status": "connected"
+  },
+  {
+    ".id": "*8490",
+    "time": "2025-12-10 10:32:49",
+    "topics": "pppoe,ppp,info",
+    "message": "ratih : connected",
+    "username": "ratih",
+    "status": "connected"
+  },
+  {
+    ".id": "*8486",
+    "time": "2025-12-10 10:32:49",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS02-SuprinyantoTretes/hd : connected",
+    "username": "MGS02-SuprinyantoTretes/hd",
+    "status": "connected"
+  },
+  {
+    ".id": "*847A",
+    "time": "2025-12-10 10:32:48",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-BR-JarnoBungur : connected",
+    "username": "TKL-BR-JarnoBungur",
+    "status": "connected"
+  },
+  {
+    ".id": "*8476",
+    "time": "2025-12-10 10:32:48",
+    "topics": "pppoe,ppp,info",
+    "message": "hasim : connected",
+    "username": "hasim",
+    "status": "connected"
+  },
+  {
+    ".id": "*846A",
+    "time": "2025-12-10 10:32:47",
+    "topics": "pppoe,ppp,info",
+    "message": "nani : connected",
+    "username": "nani",
+    "status": "connected"
+  },
+  {
+    ".id": "*8465",
+    "time": "2025-12-10 10:32:45",
+    "topics": "pppoe,ppp,info",
+    "message": "kardi : connected",
+    "username": "kardi",
+    "status": "connected"
+  },
+  {
+    ".id": "*8461",
+    "time": "2025-12-10 10:32:45",
+    "topics": "pppoe,ppp,info",
+    "message": "dimastaman : connected",
+    "username": "dimastaman",
+    "status": "connected"
+  },
+  {
+    ".id": "*845B",
+    "time": "2025-12-10 10:32:45",
+    "topics": "pppoe,ppp,info",
+    "message": "bejo : connected",
+    "username": "bejo",
+    "status": "connected"
+  },
+  {
+    ".id": "*8457",
+    "time": "2025-12-10 10:32:44",
+    "topics": "pppoe,ppp,info",
+    "message": "ridwan : connected",
+    "username": "ridwan",
+    "status": "connected"
+  },
+  {
+    ".id": "*8453",
+    "time": "2025-12-10 10:32:43",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-SK-Devi : connected",
+    "username": "TKL00-SK-Devi",
+    "status": "connected"
+  },
+  {
+    ".id": "*844E",
+    "time": "2025-12-10 10:32:43",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-SK-Brina : connected",
+    "username": "TKL00-SK-Brina",
+    "status": "connected"
+  },
+  {
+    ".id": "*844A",
+    "time": "2025-12-10 10:32:43",
+    "topics": "pppoe,ppp,info",
+    "message": "kakung : connected",
+    "username": "kakung",
+    "status": "connected"
+  },
+  {
+    ".id": "*8446",
+    "time": "2025-12-10 10:32:42",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-SK-Lina : connected",
+    "username": "TKL00-SK-Lina",
+    "status": "connected"
+  },
+  {
+    ".id": "*8825",
+    "time": "2025-12-10 14:55:09",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-03-yayuk : connected",
+    "username": "TKL-03-yayuk",
+    "status": "connected"
+  },
+  {
+    ".id": "*8821",
+    "time": "2025-12-10 14:54:33",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-03-yayuk : disconnected",
+    "username": "TKL-03-yayuk",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*8819",
+    "time": "2025-12-10 14:50:00",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-sdn1tangkil : connected",
+    "username": "TKL00-sdn1tangkil",
+    "status": "connected"
+  },
+  {
+    ".id": "*8813",
+    "time": "2025-12-10 14:49:21",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-sdn1tangkil : disconnected",
+    "username": "TKL00-sdn1tangkil",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*8808",
+    "time": "2025-12-10 14:40:16",
+    "topics": "pppoe,ppp,info",
+    "message": "09*YaniNgledok : connected",
+    "username": "09*YaniNgledok",
+    "status": "connected"
+  },
+  {
+    ".id": "*8803",
+    "time": "2025-12-10 14:39:53",
+    "topics": "pppoe,ppp,info",
+    "message": "09*ParNgledok : connected",
+    "username": "09*ParNgledok",
+    "status": "connected"
+  },
+  {
+    ".id": "*87FD",
+    "time": "2025-12-10 14:38:10",
+    "topics": "pppoe,ppp,info",
+    "message": "09*KarminNgledok : connected",
+    "username": "09*KarminNgledok",
+    "status": "connected"
+  },
+  {
+    ".id": "*87F7",
+    "time": "2025-12-10 14:37:36",
+    "topics": "pppoe,ppp,info",
+    "message": "09*ParNgledok : disconnected",
+    "username": "09*ParNgledok",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*87F3",
+    "time": "2025-12-10 14:37:27",
+    "topics": "pppoe,ppp,info",
+    "message": "09*YaniNgledok : disconnected",
+    "username": "09*YaniNgledok",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*87F0",
+    "time": "2025-12-10 14:37:26",
+    "topics": "pppoe,ppp,info",
+    "message": "09*KarminNgledok : disconnected",
+    "username": "09*KarminNgledok",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*878B",
+    "time": "2025-12-10 13:33:36",
+    "topics": "pppoe,ppp,info",
+    "message": "09*BarminTosari : connected",
+    "username": "09*BarminTosari",
+    "status": "connected"
+  },
+  {
+    ".id": "*8781",
+    "time": "2025-12-10 13:30:21",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-KR-MiniKarang : connected",
+    "username": "TKL-KR-MiniKarang",
+    "status": "connected"
+  },
+  {
+    ".id": "*877C",
+    "time": "2025-12-10 13:29:42",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-KR-MiniKarang : disconnected",
+    "username": "TKL-KR-MiniKarang",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*874A",
+    "time": "2025-12-10 12:37:37",
+    "topics": "pppoe,ppp,info",
+    "message": "MIKas : disconnected",
+    "username": "MIKas",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*8722",
+    "time": "2025-12-10 12:01:07",
+    "topics": "pppoe,ppp,info",
+    "message": "09*BarminTosari : disconnected",
+    "username": "09*BarminTosari",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*8710",
+    "time": "2025-12-10 11:41:53",
+    "topics": "pppoe,ppp,info",
+    "message": "AlHilal : connected",
+    "username": "AlHilal",
+    "status": "connected"
+  },
+  {
+    ".id": "*870B",
+    "time": "2025-12-10 11:41:31",
+    "topics": "pppoe,ppp,info",
+    "message": "AlHilal : disconnected",
+    "username": "AlHilal",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*8701",
+    "time": "2025-12-10 11:31:31",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL03-BaldesTangkil : connected",
+    "username": "TKL03-BaldesTangkil",
+    "status": "connected"
+  },
+  {
+    ".id": "*86FA",
+    "time": "2025-12-10 11:30:26",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL03-BaldesTangkil : disconnected",
+    "username": "TKL03-BaldesTangkil",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*86E6",
+    "time": "2025-12-10 11:07:50",
+    "topics": "pppoe,ppp,info",
+    "message": "09*ParNgledok : connected",
+    "username": "09*ParNgledok",
+    "status": "connected"
+  },
+  {
+    ".id": "*86E0",
+    "time": "2025-12-10 11:06:19",
+    "topics": "pppoe,ppp,info",
+    "message": "09*ParNgledok : disconnected",
+    "username": "09*ParNgledok",
+    "status": "disconnected"
+  },
+  {
+    ".id": "*86C7",
+    "time": "2025-12-10 10:34:36",
+    "topics": "pppoe,ppp,info",
+    "message": "kanijan : connected",
+    "username": "kanijan",
+    "status": "connected"
+  },
+  {
+    ".id": "*86C2",
+    "time": "2025-12-10 10:34:30",
+    "topics": "pppoe,ppp,info",
+    "message": "Boiran : connected",
+    "username": "Boiran",
+    "status": "connected"
+  },
+  {
+    ".id": "*86BC",
+    "time": "2025-12-10 10:34:19",
+    "topics": "pppoe,ppp,info",
+    "message": "buusup : connected",
+    "username": "buusup",
+    "status": "connected"
+  },
+  {
+    ".id": "*86AD",
+    "time": "2025-12-10 10:34:04",
+    "topics": "pppoe,ppp,info",
+    "message": "samsul : connected",
+    "username": "samsul",
+    "status": "connected"
+  },
+  {
+    ".id": "*86A4",
+    "time": "2025-12-10 10:34:02",
+    "topics": "pppoe,ppp,info",
+    "message": "09*JiminJobang1 : connected",
+    "username": "09*JiminJobang1",
+    "status": "connected"
+  },
+  {
+    ".id": "*8697",
+    "time": "2025-12-10 10:33:50",
+    "topics": "pppoe,ppp,info",
+    "message": "01*SulSempu : connected",
+    "username": "01*SulSempu",
+    "status": "connected"
+  },
+  {
+    ".id": "*8693",
+    "time": "2025-12-10 10:33:50",
+    "topics": "pppoe,ppp,info",
+    "message": "rosa : connected",
+    "username": "rosa",
+    "status": "connected"
+  },
+  {
+    ".id": "*868F",
+    "time": "2025-12-10 10:33:50",
+    "topics": "pppoe,ppp,info",
+    "message": "9*SentotKarangAnyar : connected",
+    "username": "9*SentotKarangAnyar",
+    "status": "connected"
+  },
+  {
+    ".id": "*8688",
+    "time": "2025-12-10 10:33:48",
+    "topics": "pppoe,ppp,info",
+    "message": "dhea : connected",
+    "username": "dhea",
+    "status": "connected"
+  },
+  {
+    ".id": "*8684",
+    "time": "2025-12-10 10:33:47",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL03-BaldesTangkil : connected",
+    "username": "TKL03-BaldesTangkil",
+    "status": "connected"
+  },
+  {
+    ".id": "*8680",
+    "time": "2025-12-10 10:33:46",
+    "topics": "pppoe,ppp,info",
+    "message": "novy : connected",
+    "username": "novy",
+    "status": "connected"
+  },
+  {
+    ".id": "*8679",
+    "time": "2025-12-10 10:33:45",
+    "topics": "pppoe,ppp,info",
+    "message": "parmin : connected",
+    "username": "parmin",
+    "status": "connected"
+  },
+  {
+    ".id": "*8673",
+    "time": "2025-12-10 10:33:45",
+    "topics": "pppoe,ppp,info",
+    "message": "09*PaicongJobang : connected",
+    "username": "09*PaicongJobang",
+    "status": "connected"
+  },
+  {
+    ".id": "*866B",
+    "time": "2025-12-10 10:33:44",
+    "topics": "pppoe,ppp,info",
+    "message": "MIKas : connected",
+    "username": "MIKas",
+    "status": "connected"
+  },
+  {
+    ".id": "*8667",
+    "time": "2025-12-10 10:33:43",
+    "topics": "pppoe,ppp,info",
+    "message": "fajarpakel : connected",
+    "username": "fajarpakel",
+    "status": "connected"
+  },
+  {
+    ".id": "*8663",
+    "time": "2025-12-10 10:33:43",
+    "topics": "pppoe,ppp,info",
+    "message": "klandri : connected",
+    "username": "klandri",
+    "status": "connected"
+  },
+  {
+    ".id": "*865F",
+    "time": "2025-12-10 10:33:41",
+    "topics": "pppoe,ppp,info",
+    "message": "iwan : connected",
+    "username": "iwan",
+    "status": "connected"
+  },
+  {
+    ".id": "*8655",
+    "time": "2025-12-10 10:33:40",
+    "topics": "pppoe,ppp,info",
+    "message": "NGR-ErnaKasihan : connected",
+    "username": "NGR-ErnaKasihan",
+    "status": "connected"
+  },
+  {
+    ".id": "*8652",
+    "time": "2025-12-10 10:33:40",
+    "topics": "pppoe,ppp,info",
+    "message": "warkop24 : connected",
+    "username": "warkop24",
+    "status": "connected"
+  },
+  {
+    ".id": "*8644",
+    "time": "2025-12-10 10:33:38",
+    "topics": "pppoe,ppp,info",
+    "message": "iqbalpakel : connected",
+    "username": "iqbalpakel",
+    "status": "connected"
+  },
+  {
+    ".id": "*8641",
+    "time": "2025-12-10 10:33:38",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-BL-kento : connected",
+    "username": "TKL-BL-kento",
+    "status": "connected"
+  },
+  {
+    ".id": "*863C",
+    "time": "2025-12-10 10:33:38",
+    "topics": "pppoe,ppp,info",
+    "message": "marsanto : connected",
+    "username": "marsanto",
+    "status": "connected"
+  },
+  {
+    ".id": "*8637",
+    "time": "2025-12-10 10:33:37",
+    "topics": "pppoe,ppp,info",
+    "message": "karno : connected",
+    "username": "karno",
+    "status": "connected"
+  },
+  {
+    ".id": "*862E",
+    "time": "2025-12-10 10:33:36",
+    "topics": "pppoe,ppp,info",
+    "message": "aifa : connected",
+    "username": "aifa",
+    "status": "connected"
+  },
+  {
+    ".id": "*862A",
+    "time": "2025-12-10 10:33:35",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS-PT-SrianaPakel : connected",
+    "username": "MGS-PT-SrianaPakel",
+    "status": "connected"
+  },
+  {
+    ".id": "*861E",
+    "time": "2025-12-10 10:33:33",
+    "topics": "pppoe,ppp,info",
+    "message": "9*Rosid : connected",
+    "username": "9*Rosid",
+    "status": "connected"
+  },
+  {
+    ".id": "*861B",
+    "time": "2025-12-10 10:33:32",
+    "topics": "pppoe,ppp,info",
+    "message": "kandar : connected",
+    "username": "kandar",
+    "status": "connected"
+  },
+  {
+    ".id": "*8617",
+    "time": "2025-12-10 10:33:32",
+    "topics": "pppoe,ppp,info",
+    "message": "KenthusJambe : connected",
+    "username": "KenthusJambe",
+    "status": "connected"
+  },
+  {
+    ".id": "*8613",
+    "time": "2025-12-10 10:33:32",
+    "topics": "pppoe,ppp,info",
+    "message": "09*MarcuwetJobang : connected",
+    "username": "09*MarcuwetJobang",
+    "status": "connected"
+  },
+  {
+    ".id": "*860A",
+    "time": "2025-12-10 10:33:28",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-candra : connected",
+    "username": "TKL00-candra",
+    "status": "connected"
+  },
+  {
+    ".id": "*85E8",
+    "time": "2025-12-10 10:33:28",
+    "topics": "pppoe,ppp,info",
+    "message": "mrjuni : connected",
+    "username": "mrjuni",
+    "status": "connected"
+  },
+  {
+    ".id": "*85E3",
+    "time": "2025-12-10 10:33:28",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-karman : connected",
+    "username": "TKL00-karman",
+    "status": "connected"
+  },
+  {
+    ".id": "*85D5",
+    "time": "2025-12-10 10:33:27",
+    "topics": "pppoe,ppp,info",
+    "message": "09*YaniNgledok : connected",
+    "username": "09*YaniNgledok",
+    "status": "connected"
+  },
+  {
+    ".id": "*85B9",
+    "time": "2025-12-10 10:33:27",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-kurniawan : connected",
+    "username": "TKL00-kurniawan",
+    "status": "connected"
+  },
+  {
+    ".id": "*85B5",
+    "time": "2025-12-10 10:33:26",
+    "topics": "pppoe,ppp,info",
+    "message": "bagong : connected",
+    "username": "bagong",
+    "status": "connected"
+  },
+  {
+    ".id": "*85B1",
+    "time": "2025-12-10 10:33:25",
+    "topics": "pppoe,ppp,info",
+    "message": "09*PujionoJobang : connected",
+    "username": "09*PujionoJobang",
+    "status": "connected"
+  },
+  {
+    ".id": "*85AC",
+    "time": "2025-12-10 10:33:24",
+    "topics": "pppoe,ppp,info",
+    "message": "kukuh : connected",
+    "username": "kukuh",
+    "status": "connected"
+  },
+  {
+    ".id": "*85A8",
+    "time": "2025-12-10 10:33:23",
+    "topics": "pppoe,ppp,info",
+    "message": "09*ParNgledok : connected",
+    "username": "09*ParNgledok",
+    "status": "connected"
+  },
+  {
+    ".id": "*85A4",
+    "time": "2025-12-10 10:33:23",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS01-PainoTretes : connected",
+    "username": "MGS01-PainoTretes",
+    "status": "connected"
+  },
+  {
+    ".id": "*85A0",
+    "time": "2025-12-10 10:33:23",
+    "topics": "pppoe,ppp,info",
+    "message": "09*KarminNgledok : connected",
+    "username": "09*KarminNgledok",
+    "status": "connected"
+  },
+  {
+    ".id": "*8598",
+    "time": "2025-12-10 10:33:23",
+    "topics": "pppoe,ppp,info",
+    "message": "yoga : connected",
+    "username": "yoga",
+    "status": "connected"
+  },
+  {
+    ".id": "*8593",
+    "time": "2025-12-10 10:33:22",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS02-Joledeng : connected",
+    "username": "MGS02-Joledeng",
+    "status": "connected"
+  },
+  {
+    ".id": "*858F",
+    "time": "2025-12-10 10:33:22",
+    "topics": "pppoe,ppp,info",
+    "message": "mlinjo : connected",
+    "username": "mlinjo",
+    "status": "connected"
+  },
+  {
+    ".id": "*858B",
+    "time": "2025-12-10 10:33:22",
+    "topics": "pppoe,ppp,info",
+    "message": "bento : connected",
+    "username": "bento",
+    "status": "connected"
+  },
+  {
+    ".id": "*8587",
+    "time": "2025-12-10 10:33:22",
+    "topics": "pppoe,ppp,info",
+    "message": "09*KonoJobang : connected",
+    "username": "09*KonoJobang",
+    "status": "connected"
+  },
+  {
+    ".id": "*8584",
+    "time": "2025-12-10 10:33:21",
+    "topics": "pppoe,ppp,info",
+    "message": "solikin : connected",
+    "username": "solikin",
+    "status": "connected"
+  },
+  {
+    ".id": "*8580",
+    "time": "2025-12-10 10:33:21",
+    "topics": "pppoe,ppp,info",
+    "message": "kung : connected",
+    "username": "kung",
+    "status": "connected"
+  },
+  {
+    ".id": "*857C",
+    "time": "2025-12-10 10:33:21",
+    "topics": "pppoe,ppp,info",
+    "message": "ekabarang : connected",
+    "username": "ekabarang",
+    "status": "connected"
+  },
+  {
+    ".id": "*8578",
+    "time": "2025-12-10 10:33:19",
+    "topics": "pppoe,ppp,info",
+    "message": "kantorsd : connected",
+    "username": "kantorsd",
+    "status": "connected"
+  },
+  {
+    ".id": "*8575",
+    "time": "2025-12-10 10:33:19",
+    "topics": "pppoe,ppp,info",
+    "message": "yodis : connected",
+    "username": "yodis",
+    "status": "connected"
+  },
+  {
+    ".id": "*8571",
+    "time": "2025-12-10 10:33:19",
+    "topics": "pppoe,ppp,info",
+    "message": "tutik : connected",
+    "username": "tutik",
+    "status": "connected"
+  },
+  {
+    ".id": "*856C",
+    "time": "2025-12-10 10:33:18",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-BR-AnaBungur : connected",
+    "username": "TKL-BR-AnaBungur",
+    "status": "connected"
+  },
+  {
+    ".id": "*8568",
+    "time": "2025-12-10 10:33:18",
+    "topics": "pppoe,ppp,info",
+    "message": "parjo : connected",
+    "username": "parjo",
+    "status": "connected"
+  },
+  {
+    ".id": "*8565",
+    "time": "2025-12-10 10:33:18",
+    "topics": "pppoe,ppp,info",
+    "message": "jurit : connected",
+    "username": "jurit",
+    "status": "connected"
+  },
+  {
+    ".id": "*8563",
+    "time": "2025-12-10 10:33:18",
+    "topics": "pppoe,ppp,info",
+    "message": "Bero : connected",
+    "username": "Bero",
+    "status": "connected"
+  },
+  {
+    ".id": "*8560",
+    "time": "2025-12-10 10:33:18",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-bondet : connected",
+    "username": "TKL00-bondet",
+    "status": "connected"
+  },
+  {
+    ".id": "*855B",
+    "time": "2025-12-10 10:33:18",
+    "topics": "pppoe,ppp,info",
+    "message": "tubagus : connected",
+    "username": "tubagus",
+    "status": "connected"
+  },
+  {
+    ".id": "*8554",
+    "time": "2025-12-10 10:33:17",
+    "topics": "pppoe,ppp,info",
+    "message": "MGSPR-prapti : connected",
+    "username": "MGSPR-prapti",
+    "status": "connected"
+  },
+  {
+    ".id": "*8550",
+    "time": "2025-12-10 10:33:17",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-03-yayuk : connected",
+    "username": "TKL-03-yayuk",
+    "status": "connected"
+  },
+  {
+    ".id": "*854C",
+    "time": "2025-12-10 10:33:17",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-BL-sabar : connected",
+    "username": "TKL-BL-sabar",
+    "status": "connected"
+  },
+  {
+    ".id": "*8548",
+    "time": "2025-12-10 10:33:17",
+    "topics": "pppoe,ppp,info",
+    "message": "MGS01-MalaTretes : connected",
+    "username": "MGS01-MalaTretes",
+    "status": "connected"
+  },
+  {
+    ".id": "*8544",
+    "time": "2025-12-10 10:33:17",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL00-Mela : connected",
+    "username": "TKL00-Mela",
+    "status": "connected"
+  },
+  {
+    ".id": "*8541",
+    "time": "2025-12-10 10:33:17",
+    "topics": "pppoe,ppp,info",
+    "message": "aasiis : connected",
+    "username": "aasiis",
+    "status": "connected"
+  },
+  {
+    ".id": "*853B",
+    "time": "2025-12-10 10:33:16",
+    "topics": "pppoe,ppp,info",
+    "message": "MGSPR-sogol : connected",
+    "username": "MGSPR-sogol",
+    "status": "connected"
+  },
+  {
+    ".id": "*8537",
+    "time": "2025-12-10 10:33:16",
+    "topics": "pppoe,ppp,info",
+    "message": "09*BarminTosari : connected",
+    "username": "09*BarminTosari",
+    "status": "connected"
+  },
+  {
+    ".id": "*852B",
+    "time": "2025-12-10 10:33:15",
+    "topics": "pppoe,ppp,info",
+    "message": "suralen : connected",
+    "username": "suralen",
+    "status": "connected"
+  },
+  {
+    ".id": "*8528",
+    "time": "2025-12-10 10:33:15",
+    "topics": "pppoe,ppp,info",
+    "message": "wanto : connected",
+    "username": "wanto",
+    "status": "connected"
+  },
+  {
+    ".id": "*8521",
+    "time": "2025-12-10 10:33:15",
+    "topics": "pppoe,ppp,info",
+    "message": "TKL-BL-alexatim : connected",
+    "username": "TKL-BL-alexatim",
+    "status": "connected"
+  },
+  {
+    ".id": "*8518",
+    "time": "2025-12-10 10:33:15",
+    "topics": "pppoe,ppp,info",
+    "message": "tunggak : connected",
+    "username": "tunggak",
+    "status": "connected"
+  },
+  {
+    ".id": "*8512",
+    "time": "2025-12-10 10:33:14",
+    "topics": "pppoe,ppp,info",
+    "message": "kecap : connected",
+    "username": "kecap",
+    "status": "connected"
+  },
+  {
+    ".id": "*850E",
+    "time": "2025-12-10 10:33:13",
+    "topics": "pppoe,ppp,info",
+    "message": "AlHilal : connected",
+    "username": "AlHilal",
+    "status": "connected"
+  },
+  {
+    ".id": "*850A",
+    "time": "2025-12-10 10:33:13",
+    "topics": "pppoe,ppp,info",
+    "message": "mbahcarik : connected",
+    "username": "mbahcarik",
+    "status": "connected"
+  },
+  {
+    ".id": "*8507",
+    "time": "2025-12-10 10:33:13",
+    "topics": "pppoe,ppp,info",
+    "message": "lestari : connected",
+    "username": "lestari",
+    "status": "connected"
+  },
+  {
+    ".id": "*8503",
+    "time": "2025-12-10 10:33:13",
+    "topics": "pppoe,ppp,info",
+    "message": "luckycollection : connected",
+    "username": "luckycollection",
+    "status": "connected"
+  },
+  {
+    ".id": "*8500",
+    "time": "2025-12-10 10:33:12",
+    "topics": "pppoe,ppp,info",
+    "message": "bayubarang : connected",
+    "username": "bayubarang",
+    "status": "connected"
+  },
+  {
+    ".id": "*84FA",
+    "time": "2025-12-10 10:33:12",
+    "topics": "pppoe,ppp,info",
+    "message": "09*WahyuTosari : connected",
+    "username": "09*WahyuTosari",
+    "status": "connected"
+  },
+  {
+    ".id": "*84F6",
+    "time": "2025-12-10 10:33:11",
+    "topics": "pppoe,ppp,info",
+    "message": "09*EkoJobang : connected",
+    "username": "09*EkoJobang",
+    "status": "connected"
+  },
+  {
+    ".id": "*84F0",
+    "time": "2025-12-10 10:33:09",
+    "topics": "pppoe,ppp,info",
+    "message": "dimaswarung : connected",
+    "username": "dimaswarung",
+    "status": "connected"
+  },
+  {
+    ".id": "*84E7",
+    "time": "2025-12-10 10:33:08",
+    "topics": "pppoe,ppp,info",
+    "message": "09*KotingJobang : connected",
+    "username": "09*KotingJobang",
+    "status": "connected"
+  }
+]

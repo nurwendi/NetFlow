@@ -1,0 +1,242 @@
+[
+  {
+    "timestamp": 1765304233538,
+    "cpuLoad": 9
+  },
+  {
+    "timestamp": 1765304538713,
+    "cpuLoad": 8
+  },
+  {
+    "timestamp": 1765304843478,
+    "cpuLoad": 9
+  },
+  {
+    "timestamp": 1765305144538,
+    "cpuLoad": 8
+  },
+  {
+    "timestamp": 1765305445212,
+    "cpuLoad": 11
+  },
+  {
+    "timestamp": 1765305834496,
+    "cpuLoad": 7
+  },
+  {
+    "timestamp": 1765307229774,
+    "cpuLoad": 9
+  },
+  {
+    "timestamp": 1765307530535,
+    "cpuLoad": 6
+  },
+  {
+    "timestamp": 1765307929828,
+    "cpuLoad": 7
+  },
+  {
+    "timestamp": 1765308232591,
+    "cpuLoad": 8
+  },
+  {
+    "timestamp": 1765308536424,
+    "cpuLoad": 4
+  },
+  {
+    "timestamp": 1765308837865,
+    "cpuLoad": 8
+  },
+  {
+    "timestamp": 1765309142203,
+    "cpuLoad": 4
+  },
+  {
+    "timestamp": 1765309442857,
+    "cpuLoad": 7
+  },
+  {
+    "timestamp": 1765309747524,
+    "cpuLoad": 8
+  },
+  {
+    "timestamp": 1765310050699,
+    "cpuLoad": 7
+  },
+  {
+    "timestamp": 1765310355154,
+    "cpuLoad": 9
+  },
+  {
+    "timestamp": 1765310655374,
+    "cpuLoad": 4
+  },
+  {
+    "timestamp": 1765310956095,
+    "cpuLoad": 7
+  },
+  {
+    "timestamp": 1765311469179,
+    "cpuLoad": 8
+  },
+  {
+    "timestamp": 1765311769666,
+    "cpuLoad": 10
+  },
+  {
+    "timestamp": 1765312069711,
+    "cpuLoad": 8
+  },
+  {
+    "timestamp": 1765312372552,
+    "cpuLoad": 5
+  },
+  {
+    "timestamp": 1765312714955,
+    "cpuLoad": 2
+  },
+  {
+    "timestamp": 1765313022868,
+    "cpuLoad": 4
+  },
+  {
+    "timestamp": 1765313409690,
+    "cpuLoad": 5
+  },
+  {
+    "timestamp": 1765313713577,
+    "cpuLoad": 9
+  },
+  {
+    "timestamp": 1765314349246,
+    "cpuLoad": 10
+  },
+  {
+    "timestamp": 1765316667372,
+    "cpuLoad": 12
+  },
+  {
+    "timestamp": 1765317124142,
+    "cpuLoad": 12
+  },
+  {
+    "timestamp": 1765318153542,
+    "cpuLoad": 20
+  },
+  {
+    "timestamp": 1765318455286,
+    "cpuLoad": 13
+  },
+  {
+    "timestamp": 1765318758139,
+    "cpuLoad": 14
+  },
+  {
+    "timestamp": 1765319059524,
+    "cpuLoad": 17
+  },
+  {
+    "timestamp": 1765319360979,
+    "cpuLoad": 15
+  },
+  {
+    "timestamp": 1765319664316,
+    "cpuLoad": 13
+  },
+  {
+    "timestamp": 1765319965712,
+    "cpuLoad": 14
+  },
+  {
+    "timestamp": 1765320270844,
+    "cpuLoad": 11
+  },
+  {
+    "timestamp": 1765320591490,
+    "cpuLoad": 12
+  },
+  {
+    "timestamp": 1765320894408,
+    "cpuLoad": 17
+  },
+  {
+    "timestamp": 1765321198166,
+    "cpuLoad": 18
+  },
+  {
+    "timestamp": 1765321578688,
+    "cpuLoad": 15
+  },
+  {
+    "timestamp": 1765321878794,
+    "cpuLoad": 21
+  },
+  {
+    "timestamp": 1765322240855,
+    "cpuLoad": 16
+  },
+  {
+    "timestamp": 1765342994750,
+    "cpuLoad": 24
+  },
+  {
+    "timestamp": 1765343295287,
+    "cpuLoad": 27
+  },
+  {
+    "timestamp": 1765344008151,
+    "cpuLoad": 20
+  },
+  {
+    "timestamp": 1765344609626,
+    "cpuLoad": 23
+  },
+  {
+    "timestamp": 1765344911084,
+    "cpuLoad": 21
+  },
+  {
+    "timestamp": 1765345215701,
+    "cpuLoad": 28
+  },
+  {
+    "timestamp": 1765345518942,
+    "cpuLoad": 23
+  },
+  {
+    "timestamp": 1765346829819,
+    "cpuLoad": 23
+  },
+  {
+    "timestamp": 1765348634511,
+    "cpuLoad": 21
+  },
+  {
+    "timestamp": 1765350473498,
+    "cpuLoad": 18
+  },
+  {
+    "timestamp": 1765351000316,
+    "cpuLoad": 24
+  },
+  {
+    "timestamp": 1765351302832,
+    "cpuLoad": 22
+  },
+  {
+    "timestamp": 1765351751610,
+    "cpuLoad": 24
+  },
+  {
+    "timestamp": 1765352987734,
+    "cpuLoad": 18
+  },
+  {
+    "timestamp": 1765353693166,
+    "cpuLoad": 21
+  },
+  {
+    "timestamp": 1765353999592,
+    "cpuLoad": 17
+  }
+]

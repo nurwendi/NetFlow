@@ -1,0 +1,38 @@
+{
+  "display": {
+    "theme": "system",
+    "dateFormat": "DD/MM/YYYY",
+    "timeFormat": "24h",
+    "timezone": "Asia/Jakarta",
+    "bandwidthUnit": "auto",
+    "memoryUnit": "auto",
+    "temperatureUnit": "celsius"
+  },
+  "dashboard": {
+    "refreshInterval": 5000,
+    "visibleWidgets": {
+      "financial": true,
+      "pppoe": true,
+      "realtime": true,
+      "system": true,
+      "tempChart": true,
+      "cpuChart": true,
+      "trafficChart": true,
+      "sfp": true
+    },
+    "layout": []
+  },
+  "tables": {
+    "rowsPerPage": 25
+  },
+  "notifications": {
+    "enabled": false,
+    "highCpu": true,
+    "cpuThreshold": 80,
+    "sfpCritical": true,
+    "voltageLow": true
+  },
+  "security": {
+    "sessionTimeout": 0
+  }
+}
