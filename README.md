@@ -1,32 +1,64 @@
-# MikroTik Billing Management System
+# NetFlow Pro - MikroTik Billing Management System
 
-A comprehensive PPPoE billing and user management system for MikroTik routers.
+A comprehensive PPPoE billing and user management system for MikroTik routers with modern UI and advanced features.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-20.x-green.svg)
-![Next.js](https://img.shields.io/badge/Next.js-16-black.svg)
+![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)
 
 ## ✨ Features
 
-- ✅ Dashboard with real-time stats
-- ✅ PPPoE User Management
-- ✅ Billing & Invoice System (Auto-Generated)
-- ✅ **Auto Email Payment Receipt (PDF)** 🆕
-- ✅ Customer Data Management
+### 📊 Dashboard & Monitoring
+- ✅ Real-time Dashboard with Statistics
 - ✅ Multi-Router Support
-- ✅ Temperature & CPU Monitoring (3-day graphs)
+- ✅ CPU & Temperature Monitoring (3-day graphs)
 - ✅ Traffic Monitoring (7-day graphs)
+- ✅ Real-time PPPoE Connection Notifications
+- ✅ Active/Offline User Status Tracking
+
+### 👥 User Management
+- ✅ PPPoE User Management
+- ✅ Customer Data Management (Name, Address, Phone, Email)
+- ✅ Profile Management with Bandwidth Limits
+- ✅ Agent/Partner & Technician Assignment
+- ✅ Customer Portal Dashboard
+- ✅ System User Roles (Admin, Partner, Viewer, Customer)
+
+### 💰 Billing System
+- ✅ Auto-Generate Monthly Invoices
+- ✅ Payment Recording with Receipt
+- ✅ WhatsApp Invoice Delivery
+- ✅ Multi-Payment Method Support
 - ✅ Auto-Drop Unpaid Users
-- ✅ Automatic Backups
+- ✅ Partner Commission Tracking
+- ✅ Advanced Payment Reports
+
+### 🔔 Notifications
+- ✅ Real-time PPPoE Connection/Disconnection Logs
+- ✅ Strict Filtering (Connected/Disconnected only)
+- ✅ 100-Log History Limit
+- ✅ Date/Time Separation with Smart Display
+
+### 🎨 User Interface
+- ✅ Modern Glassmorphism Design
 - ✅ Dark Mode Support
-- ✅ **Mobile Optimized UI** (Bottom Nav, Dynamic Transitions) 🆕
-- ✅ **App Settings Access & Role-Based Visibility** 🆕
+- ✅ Theme Customization (Accent Colors)
+- ✅ Mobile-Optimized Bottom Dock Navigation
+- ✅ Responsive Design for All Devices
+- ✅ Bilingual Support (English/Indonesian)
+
+### 🔧 System Features
+- ✅ Automatic Daily Backups
+- ✅ Scheduled Tasks (Auto-Drop, Invoice Generation)
+- ✅ Role-Based Access Control
+- ✅ Logo & Company Branding Customization
+- ✅ Invoice PDF Generation
 
 ## 📋 System Requirements
 
 | Requirement | Minimum |
 |-------------|---------|
-| OS | Ubuntu 20.04+ / Debian 11+ |
+| OS | Ubuntu 20.04+ / Debian 11+ / Windows 10+ |
 | Node.js | 20.x or higher |
 | RAM | 1GB |
 | Storage | 10GB |
@@ -34,133 +66,95 @@ A comprehensive PPPoE billing and user management system for MikroTik routers.
 
 ---
 
-## 🚀 Installation
+## 🚀 Quick Start
 
-### Quick Install (One Command)
+### Installation (Ubuntu/Debian)
 
+#### One-Command Install
 ```bash
 cd /root
-curl -fsSL https://raw.githubusercontent.com/nurwendi/mikrotikbilling/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nurwendi/NetFlow/main/scripts/install.sh | bash
 ```
 
-### Quick Uninstall
+#### Manual Installation
 
+**1. Update System & Install Dependencies**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/nurwendi/mikrotikbilling/main/scripts/uninstall.sh | bash
-```
-
-### Manual Installation
-
-#### Step 1: Update System
-```bash
-# If logged in as root (no sudo needed)
 apt update && apt upgrade -y
 apt install -y curl git
-
-# If logged in as regular user
-sudo apt update && sudo apt upgrade -y
-sudo apt install -y curl git
 ```
 
-#### Step 2: Install Node.js 20.x
+**2. Install Node.js 20.x**
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
 apt-get install -y nodejs
-node -v  # Verify: should show v20.x
+node -v  # Verify installation
 ```
 
-#### Step 3: Install PM2 (Process Manager)
+**3. Install PM2**
 ```bash
 npm install -g pm2
 ```
 
-#### Step 4: Clone Repository
+**4. Clone Repository**
 ```bash
 cd /opt
-git clone https://github.com/nurwendi/mikrotikbilling.git billing
+git clone https://github.com/nurwendi/NetFlow.git billing
 cd /opt/billing
 ```
 
-#### Step 5: Install Dependencies & Build
+**5. Install Dependencies & Build**
 ```bash
 npm install
 npm run build
 ```
 
-#### Step 6: Start Application
+**6. Start Application**
 ```bash
 pm2 start npm --name "billing" -- start
 pm2 save
-pm2 startup  # Follow the printed command to enable auto-start
+pm2 startup  # Follow instructions to enable auto-start
 ```
 
-#### Step 7: Set Timezone (Optional)
-```bash
-timedatectl set-timezone Asia/Jakarta
+**7. Access Application**
 ```
-
-#### Step 8: Access Application
-Open browser: `http://YOUR_SERVER_IP:3000`
+http://YOUR_SERVER_IP:3000
+```
 
 **Default Login:**
 - Username: `admin`
 - Password: `admin`
 
-> ⚠️ **Important**: Change the default password after first login!
+> ⚠️ **Important**: Change the default password immediately after first login!
 
 ---
 
-## 🗑️ Uninstallation
+### Installation (Windows)
 
-### Complete Removal
+**1. Install Node.js**
+- Download from: https://nodejs.org/ (LTS version 20.x)
+- Install and verify: `node -v`
 
-```bash
-# Stop and remove from PM2
-pm2 stop billing
-pm2 delete billing
-pm2 save
-
-# Remove application files
-rm -rf /opt/billing
-
-# Remove PM2 startup script (optional)
-pm2 unstartup
+**2. Clone Repository**
+```powershell
+cd C:\
+git clone https://github.com/nurwendi/NetFlow.git netflow
+cd netflow
 ```
 
-### Remove with Data Backup
-
-```bash
-# Backup data first
-mkdir -p ~/billing-backup
-cp /opt/billing/config.json ~/billing-backup/
-cp /opt/billing/customer-data.json ~/billing-backup/
-cp -r /opt/billing/data ~/billing-backup/
-cp -r /opt/billing/backups ~/billing-backup/
-
-# Then uninstall
-pm2 stop billing
-pm2 delete billing
-pm2 save
-rm -rf /opt/billing
-
-echo "Backup saved to ~/billing-backup"
+**3. Install Dependencies**
+```powershell
+npm install
 ```
 
-### Remove Everything (including Node.js & PM2)
+**4. Run Development Server**
+```powershell
+npm run dev
+```
 
-```bash
-# Remove application
-pm2 stop billing
-pm2 delete billing
-rm -rf /opt/billing
-
-# Remove PM2
-npm uninstall -g pm2
-rm -rf ~/.pm2
-
-# Remove Node.js (optional)
-apt remove -y nodejs
-rm -rf /etc/apt/sources.list.d/nodesource.list
+**5. Access Application**
+```
+http://localhost:3000
 ```
 
 ---
@@ -169,13 +163,124 @@ rm -rf /etc/apt/sources.list.d/nodesource.list
 
 ### MikroTik Router Setup
 
-Enable API access on your MikroTik router:
+Enable API access on your MikroTik:
 ```
 /ip service set api address=YOUR_SERVER_IP enabled=yes port=8728
 /user add name=billing password=YOUR_PASSWORD group=full
 ```
 
-### Nginx Reverse Proxy (Optional - for port 80)
+### First-Time Setup
+
+1. Login with default credentials (admin/admin)
+2. Go to **Connection Settings**
+3. Add your MikroTik router:
+   - **Host**: Router IP address
+   - **Port**: 8728 (default API port)
+   - **Username**: billing
+   - **Password**: Your MikroTik password
+4. Click **Test Connection** to verify
+5. Save configuration
+
+### Application Settings
+
+Navigate to **App Settings** to customize:
+- Company Name
+- Company Logo
+- Invoice Footer
+- System Language
+
+---
+
+## 🗂️ Data Files
+
+| File | Description |
+|------|-------------|
+| `config.json` | MikroTik router connections |
+| `app-settings.json` | Company name, logo, language |
+| `billing-settings.json` | Invoice settings |
+| `customer-data.json` | Customer information |
+| `data/users.json` | System users (excluded from git) |
+| `data/notifications.json` | Connection logs (excluded from git) |
+| `data/traffic-history.json` | 7-day traffic data |
+| `backups/` | Automatic daily backups |
+
+> **Note**: Sensitive files (users.json, billing data) are excluded from version control via `.gitignore`
+
+---
+
+## ⏰ Scheduled Tasks
+
+| Task | Schedule | Description |
+|------|----------|-------------|
+| Daily Backup | 00:00 | Backs up all data |
+| Auto-Drop | 01:00 | Disconnects users with overdue payments |
+| Auto-Invoice | 1st of Month 07:00 | Generates monthly invoices |
+| Traffic Collection | Every minute | Collects bandwidth statistics |
+| Usage Sync | Every 5 minutes | Syncs user data usage |
+
+---
+
+## 🔧 Management Commands
+
+### PM2 Process Management (Linux)
+```bash
+pm2 list              # List all processes
+pm2 logs billing      # View application logs
+pm2 restart billing   # Restart application
+pm2 stop billing      # Stop application
+pm2 delete billing    # Remove from PM2
+pm2 monit             # Monitor resources
+```
+
+### Development (Windows/Linux)
+```bash
+npm run dev           # Start development server
+npm run build         # Build for production
+npm start             # Start production server
+```
+
+---
+
+## 🔄 Update Application
+
+```bash
+cd /opt/billing
+git pull origin main
+npm install
+npm run build
+pm2 restart billing
+```
+
+---
+
+## 🗑️ Uninstallation
+
+### Quick Uninstall (Linux)
+```bash
+curl -fsSL https://raw.githubusercontent.com/nurwendi/NetFlow/main/scripts/uninstall.sh | bash
+```
+
+### Manual Uninstall
+```bash
+# Stop application
+pm2 stop billing
+pm2 delete billing
+pm2 save
+
+# Backup data (optional)
+mkdir -p ~/billing-backup
+cp -r /opt/billing/data ~/billing-backup/
+cp -r /opt/billing/backups ~/billing-backup/
+
+# Remove application
+rm -rf /opt/billing
+```
+
+---
+
+## 🌐 Nginx Reverse Proxy (Optional)
+
+To run on port 80 with custom domain:
 
 ```bash
 apt install nginx -y
@@ -200,7 +305,7 @@ server {
 }
 ```
 
-Enable the site:
+Enable site:
 ```bash
 ln -s /etc/nginx/sites-available/billing /etc/nginx/sites-enabled/
 nginx -t
@@ -209,111 +314,119 @@ systemctl restart nginx
 
 ---
 
-## 📁 Data Files
-
-| File | Description |
-|------|-------------|
-| `config.json` | Router connections and settings |
-| `app-settings.json` | Application name and logo |
-| `billing-settings.json` | Invoice settings |
-| `customer-data.json` | Customer information |
-| `data/users.json` | System users |
-| `data/traffic-history.json` | Traffic history (7 days) |
-| `data/temperature-history.json` | Temperature history (3 days) |
-| `data/cpu-history.json` | CPU usage history (3 days) |
-| `backups/` | Automatic backups |
-
----
-
-## ⏰ Scheduled Tasks
-
-| Task | Schedule | Description |
-|------|----------|-------------|
-| Daily Backup | 00:00 | Backs up all data to `backups/` folder |
-| Auto-Drop | 01:00 | Disconnects users with overdue payments |
-| Auto-Invoice | 1st of Month 07:00 | Generates invoices for all customers |
-| Traffic Collection | Every minute | Collects bandwidth data |
-| Usage Sync | Every 5 minutes | Syncs user data usage |
-
----
-
-## 🔧 PM2 Commands
-
-```bash
-pm2 list              # Show all processes
-pm2 logs billing      # View logs
-pm2 restart billing   # Restart application
-pm2 stop billing      # Stop application
-pm2 delete billing    # Remove from PM2
-```
-
----
-
-## 🔄 Update Application
-
-```bash
-cd /opt/billing
-git pull origin main
-npm install
-npm run build
-pm2 restart billing
-```
-
----
-
-## 🔁 Reset Data
-
-To reset all data to fresh state:
-```bash
-cd /opt/billing
-node scripts/reset-data.js
-```
-
-This will:
-- Clear all customer data
-- Reset to default admin user (admin/admin)
-- Clear all history data
-- Keep configuration files
-
----
-
 ## 🐛 Troubleshooting
 
-### Port 3000 Already in Use
+### Connection Issues
+
+**Cannot Connect to MikroTik**
+1. Verify API is enabled: `/ip service print`
+2. Check firewall rules allow port 8728
+3. Verify credentials in Connection Settings
+4. Test from terminal: `telnet ROUTER_IP 8728`
+
+**Login Not Working**
+- Clear browser cache and cookies
+- Ensure using HTTP (not HTTPS) if no SSL configured
+- Check console for errors (F12)
+
+### Performance Issues
+
+**High CPU Usage**
+```bash
+pm2 restart billing
+pm2 logs billing --lines 100
+```
+
+**Port Already in Use**
 ```bash
 lsof -i :3000
 kill -9 <PID>
+pm2 restart billing
 ```
 
-### PM2 Not Starting on Boot
+**PM2 Not Starting on Boot**
 ```bash
 pm2 unstartup
 pm2 startup
 pm2 save
 ```
 
-### Check Application Logs
+### Database Issues
+
+**Reset to Clean State**
 ```bash
-pm2 logs billing --lines 100
+cd /opt/billing
+# Backup first!
+cp -r data data-backup
+# Clear all database files
+rm -rf data/*.json
+# Restart application
+pm2 restart billing
 ```
-
-### Login Not Working
-Make sure you're using HTTP (not HTTPS) or the cookie won't be saved.
-
-### Cannot Connect to MikroTik
-1. Verify API is enabled: `/ip service print`
-2. Check firewall rules on MikroTik
-3. Verify credentials in Connection settings
 
 ---
 
-## 📞 Support
+## 📖 User Guide
 
-For issues and feature requests, please open an issue on GitHub:
-https://github.com/nurwendi/mikrotikbilling/issues
+### For Administrators
+1. **Add Customers**: Users → Add Customer
+2. **Create PPPoE Users**: Sync from MikroTik or create manually
+3. **Record Payments**: Billing → Record Payment
+4. **Generate Invoices**: Auto-generated monthly or manual
+5. **Monitor**: Dashboard shows real-time statistics
+
+### For Partners
+- View assigned customers
+- Record payments
+- View commission earnings
+- Access reports
+
+### For Customers
+- View usage statistics
+- Check payment status
+- View invoices
+- Restart connection (if enabled)
+
+---
+
+## 🔒 Security Best Practices
+
+1. **Change default password** immediately
+2. Use **strong passwords** for all accounts
+3. Enable **firewall** on server
+4. Run behind **Nginx** with SSL/TLS
+5. Regular **backups** to external storage
+6. Restrict MikroTik API access to specific IPs
+7. Keep Node.js and dependencies **updated**
+
+---
+
+## 📞 Support & Contributing
+
+**Issues & Feature Requests:**  
+https://github.com/nurwendi/NetFlow/issues
+
+**Repository:**  
+https://github.com/nurwendi/NetFlow
+
+**Contributions welcome!** Feel free to submit pull requests.
 
 ---
 
 ## 📄 License
 
-MIT License - feel free to use and modify for your needs.
+MIT License - Free to use and modify for your needs.
+
+---
+
+## 🙏 Acknowledgments
+
+Built with:
+- [Next.js](https://nextjs.org/) - React Framework
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
+- [Lucide Icons](https://lucide.dev/) - Icon Library
+- [RouterOS API](https://github.com/joshaven/node-routeros) - MikroTik Integration
+
+---
+
+**Made with ❤️ for ISP Administrators**
