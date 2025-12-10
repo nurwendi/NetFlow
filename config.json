@@ -1,15 +1,6 @@
 {
-  "connections": [
-    {
-      "name": "hudi",
-      "host": "192.168.20.254",
-      "port": "8728",
-      "user": "hudi",
-      "password": "32326655",
-      "id": "1765304227675"
-    }
-  ],
-  "activeConnectionId": "1765304227675",
+  "connections": [],
+  "activeConnectionId": null,
   "title": "Mikrotik PPPoE Manager",
   "wanInterface": "00-SFP-Input",
   "email": {
