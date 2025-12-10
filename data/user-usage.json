@@ -4,560 +4,560 @@
     "accumulated_rx": 6011990625,
     "accumulated_tx": 52808657689,
     "last_session_id": "*800004AE",
-    "last_session_rx": 152554689,
-    "last_session_tx": 1512792811
+    "last_session_rx": 159535880,
+    "last_session_tx": 1590413963
   },
   "Boiran": {
     "month": "2025-12",
     "accumulated_rx": 5317584438,
     "accumulated_tx": 54572025307,
     "last_session_id": "*800004DF",
-    "last_session_rx": 228633470,
-    "last_session_tx": 3054468844
+    "last_session_rx": 234378589,
+    "last_session_tx": 3093748463
   },
   "supriantoobe": {
     "month": "2025-12",
     "accumulated_rx": 2640436611,
     "accumulated_tx": 30822891378,
     "last_session_id": "*80000465",
-    "last_session_rx": 89829675,
-    "last_session_tx": 916714229
+    "last_session_rx": 90154842,
+    "last_session_tx": 918503286
   },
   "bayubarang": {
     "month": "2025-12",
     "accumulated_rx": 21463827989,
     "accumulated_tx": 81323695564,
     "last_session_id": "*80000496",
-    "last_session_rx": 353468703,
-    "last_session_tx": 2394797228
+    "last_session_rx": 357733449,
+    "last_session_tx": 2460670955
   },
   "bero": {
     "month": "2025-12",
     "accumulated_rx": 3868786251,
     "accumulated_tx": 13952825226,
     "last_session_id": "*80000470",
-    "last_session_rx": 113942982,
-    "last_session_tx": 702792187
+    "last_session_rx": 118830612,
+    "last_session_tx": 718428510
   },
   "dalbo": {
     "month": "2025-12",
     "accumulated_rx": 5843975463,
     "accumulated_tx": 80389019300,
     "last_session_id": "*80000461",
-    "last_session_rx": 197241080,
-    "last_session_tx": 2529112803
+    "last_session_rx": 207104487,
+    "last_session_tx": 2707130995
   },
   "marsanto": {
     "month": "2025-12",
     "accumulated_rx": 1860371836,
     "accumulated_tx": 26940632751,
     "last_session_id": "*800004CB",
-    "last_session_rx": 122166191,
-    "last_session_tx": 909932994
+    "last_session_rx": 123480632,
+    "last_session_tx": 959281777
   },
   "diva": {
     "month": "2025-12",
     "accumulated_rx": 3812338543,
     "accumulated_tx": 20675483616,
     "last_session_id": "*80000462",
-    "last_session_rx": 266925736,
-    "last_session_tx": 456826253
+    "last_session_rx": 273126083,
+    "last_session_tx": 460815662
   },
   "ekabarang": {
     "month": "2025-12",
     "accumulated_rx": 5999276662,
     "accumulated_tx": 44537985510,
     "last_session_id": "*800004B1",
-    "last_session_rx": 142815050,
-    "last_session_tx": 1765240166
+    "last_session_rx": 142886259,
+    "last_session_tx": 1765628668
   },
   "9*Rosid": {
     "month": "2025-12",
     "accumulated_rx": 11922577574,
     "accumulated_tx": 112130815391,
     "last_session_id": "*800004C7",
-    "last_session_rx": 295478437,
-    "last_session_tx": 2787697657
+    "last_session_rx": 298531569,
+    "last_session_tx": 2825643066
   },
   "NGR-ErnaKasihan": {
     "month": "2025-12",
     "accumulated_rx": 10284029584,
     "accumulated_tx": 134517458687,
     "last_session_id": "*800004CF",
-    "last_session_rx": 357943396,
-    "last_session_tx": 5925707587
+    "last_session_rx": 379305362,
+    "last_session_tx": 6482889978
   },
   "lestari": {
     "month": "2025-12",
     "accumulated_rx": 3518563734,
     "accumulated_tx": 32444780062,
     "last_session_id": "*80000498",
-    "last_session_rx": 57794975,
-    "last_session_tx": 1036148231
+    "last_session_rx": 57816639,
+    "last_session_tx": 1036191923
   },
   "budi": {
     "month": "2025-12",
     "accumulated_rx": 2244053673,
     "accumulated_tx": 38045723594,
     "last_session_id": "*8000046E",
-    "last_session_rx": 61437393,
-    "last_session_tx": 1658100628
+    "last_session_rx": 61668254,
+    "last_session_tx": 1658362704
   },
   "samsul": {
     "month": "2025-12",
     "accumulated_rx": 6347134909,
     "accumulated_tx": 107126735888,
     "last_session_id": "*800004DD",
-    "last_session_rx": 82288268,
-    "last_session_tx": 1666473690
+    "last_session_rx": 82598814,
+    "last_session_tx": 1667923206
   },
   "MGS01-NggomoTretes": {
     "month": "2025-12",
     "accumulated_rx": 7112781487,
     "accumulated_tx": 79574232900,
     "last_session_id": "*80000476",
-    "last_session_rx": 131480146,
-    "last_session_tx": 2707569348
+    "last_session_rx": 136123559,
+    "last_session_tx": 2798370977
   },
   "bejo": {
     "month": "2025-12",
     "accumulated_rx": 8614030445,
     "accumulated_tx": 142790097448,
     "last_session_id": "*8000047C",
-    "last_session_rx": 242796555,
-    "last_session_tx": 4772975871
+    "last_session_rx": 247487019,
+    "last_session_tx": 4853046039
   },
   "parmin": {
     "month": "2025-12",
     "accumulated_rx": 2433945372,
     "accumulated_tx": 20145845523,
     "last_session_id": "*800004D5",
-    "last_session_rx": 24171259,
-    "last_session_tx": 591682173
+    "last_session_rx": 24501087,
+    "last_session_tx": 593647068
   },
   "sulis": {
     "month": "2025-12",
     "accumulated_rx": 2798544465,
     "accumulated_tx": 10616925216,
     "last_session_id": "*8000045F",
-    "last_session_rx": 1536282,
-    "last_session_tx": 14268194
+    "last_session_rx": 1539642,
+    "last_session_tx": 14271554
   },
   "karno": {
     "month": "2025-12",
     "accumulated_rx": 1262115807,
     "accumulated_tx": 12679988735,
     "last_session_id": "*800004CA",
-    "last_session_rx": 4093460,
-    "last_session_tx": 31582723
+    "last_session_rx": 4313439,
+    "last_session_tx": 33649105
   },
   "MGS02-SuprinyantoTretes/hd": {
     "month": "2025-12",
     "accumulated_rx": 11549208092,
     "accumulated_tx": 119503822266,
     "last_session_id": "*80000482",
-    "last_session_rx": 268483876,
-    "last_session_tx": 4636619767
+    "last_session_rx": 275749477,
+    "last_session_tx": 4740589002
   },
   "JaminTretes/hd": {
     "month": "2025-12",
     "accumulated_rx": 3931882387,
     "accumulated_tx": 81141801532,
     "last_session_id": "*8000048D",
-    "last_session_rx": 122580924,
-    "last_session_tx": 3015785073
+    "last_session_rx": 128838492,
+    "last_session_tx": 3209118588
   },
   "09*WahyuTosari": {
     "month": "2025-12",
     "accumulated_rx": 8463508253,
     "accumulated_tx": 100374806105,
     "last_session_id": "*80000495",
-    "last_session_rx": 154201215,
-    "last_session_tx": 1634224868
+    "last_session_rx": 155617125,
+    "last_session_tx": 1730547141
   },
   "09*KotingJobang": {
     "month": "2025-12",
     "accumulated_rx": 9585883537,
     "accumulated_tx": 75108232890,
     "last_session_id": "*80000492",
-    "last_session_rx": 102867674,
-    "last_session_tx": 1150639033
+    "last_session_rx": 106086787,
+    "last_session_tx": 1161593004
   },
   "09*PurTosari": {
     "month": "2025-12",
     "accumulated_rx": 9076187077,
     "accumulated_tx": 99886164653,
     "last_session_id": "*80000490",
-    "last_session_rx": 104013955,
-    "last_session_tx": 1628285040
+    "last_session_rx": 106221809,
+    "last_session_tx": 1680226730
   },
   "dimastaman": {
     "month": "2025-12",
     "accumulated_rx": 4988715069,
     "accumulated_tx": 68021440175,
     "last_session_id": "*8000047D",
-    "last_session_rx": 80048420,
-    "last_session_tx": 1415092237
+    "last_session_rx": 80764254,
+    "last_session_tx": 1433370488
   },
   "ambon": {
     "month": "2025-12",
     "accumulated_rx": 3857382976,
     "accumulated_tx": 12652277736,
     "last_session_id": "*80000460",
-    "last_session_rx": 17517662,
-    "last_session_tx": 147500064
+    "last_session_rx": 17836189,
+    "last_session_tx": 152565332
   },
   "09*KonoJobang": {
     "month": "2025-12",
     "accumulated_rx": 16349419567,
     "accumulated_tx": 82877557700,
     "last_session_id": "*800004B4",
-    "last_session_rx": 142792805,
-    "last_session_tx": 2213503700
+    "last_session_rx": 172126731,
+    "last_session_tx": 2444411950
   },
   "09*PujionoJobang": {
     "month": "2025-12",
     "accumulated_rx": 4203363250,
     "accumulated_tx": 45332241550,
     "last_session_id": "*800004BD",
-    "last_session_rx": 120100826,
-    "last_session_tx": 1941706721
+    "last_session_rx": 121188965,
+    "last_session_tx": 1965348995
   },
   "9*SentotKarangAnyar": {
     "month": "2025-12",
     "accumulated_rx": 2194715188,
     "accumulated_tx": 29191310005,
     "last_session_id": "*800004D9",
-    "last_session_rx": 33619126,
-    "last_session_tx": 472482777
+    "last_session_rx": 33693871,
+    "last_session_tx": 472556160
   },
   "09*KlowongJobang": {
     "month": "2025-12",
     "accumulated_rx": 5390857897,
     "accumulated_tx": 61475944286,
     "last_session_id": "*80000488",
-    "last_session_rx": 127628374,
-    "last_session_tx": 1920033497
+    "last_session_rx": 133115444,
+    "last_session_tx": 2085940408
   },
   "09*MarcuwetJobang": {
     "month": "2025-12",
     "accumulated_rx": 11476267770,
     "accumulated_tx": 118556431090,
     "last_session_id": "*800004C4",
-    "last_session_rx": 429836950,
-    "last_session_tx": 3197267600
+    "last_session_rx": 445955005,
+    "last_session_tx": 3209517395
   },
   "dhea": {
     "month": "2025-12",
     "accumulated_rx": 10759397620,
     "accumulated_tx": 92324076053,
     "last_session_id": "*800004D8",
-    "last_session_rx": 228957537,
-    "last_session_tx": 2423004615
+    "last_session_rx": 241406943,
+    "last_session_tx": 2656557325
   },
   "mlinjo": {
     "month": "2025-12",
     "accumulated_rx": 8670044956,
     "accumulated_tx": 123298366808,
     "last_session_id": "*800004B6",
-    "last_session_rx": 435347148,
-    "last_session_tx": 7388108785
+    "last_session_rx": 442373886,
+    "last_session_tx": 7498770872
   },
   "novy": {
     "month": "2025-12",
     "accumulated_rx": 3130830672,
     "accumulated_tx": 20782047227,
     "last_session_id": "*800004D6",
-    "last_session_rx": 62071520,
-    "last_session_tx": 472022553
+    "last_session_rx": 63225811,
+    "last_session_tx": 481074457
   },
   "09*KarminNgledok": {
     "month": "2025-12",
     "accumulated_rx": 6244361432,
     "accumulated_tx": 62887469730,
     "last_session_id": "*800004E6",
-    "last_session_rx": 9849857,
-    "last_session_tx": 169072830
+    "last_session_rx": 15098724,
+    "last_session_tx": 274014203
   },
   "santheng": {
     "month": "2025-12",
     "accumulated_rx": 6744379319,
     "accumulated_tx": 69227620251,
     "last_session_id": "*8000046A",
-    "last_session_rx": 791399368,
-    "last_session_tx": 5352722781
+    "last_session_rx": 796021242,
+    "last_session_tx": 5362586459
   },
   "klandri": {
     "month": "2025-12",
     "accumulated_rx": 2939566878,
     "accumulated_tx": 31129317787,
     "last_session_id": "*800004D1",
-    "last_session_rx": 140851934,
-    "last_session_tx": 1356312328
+    "last_session_rx": 141312187,
+    "last_session_tx": 1357316889
   },
   "09*EkoJobang": {
     "month": "2025-12",
     "accumulated_rx": 5166232853,
     "accumulated_tx": 61987758846,
     "last_session_id": "*80000494",
-    "last_session_rx": 223027948,
-    "last_session_tx": 2745058762
+    "last_session_rx": 270256821,
+    "last_session_tx": 2866083536
   },
   "bagong": {
     "month": "2025-12",
     "accumulated_rx": 2519097310,
     "accumulated_tx": 28175685951,
     "last_session_id": "*800004BE",
-    "last_session_rx": 23612234,
-    "last_session_tx": 354825822
+    "last_session_rx": 24618604,
+    "last_session_tx": 365476209
   },
   "iwan": {
     "month": "2025-12",
     "accumulated_rx": 4058826517,
     "accumulated_tx": 55619211710,
     "last_session_id": "*800004D0",
-    "last_session_rx": 135637979,
-    "last_session_tx": 2810544871
+    "last_session_rx": 146335558,
+    "last_session_tx": 3089066848
   },
   "kecap": {
     "month": "2025-12",
     "accumulated_rx": 201724198,
     "accumulated_tx": 2508757463,
     "last_session_id": "*8000049B",
-    "last_session_rx": 24788779,
-    "last_session_tx": 97895230
+    "last_session_rx": 24790628,
+    "last_session_tx": 97897648
   },
   "MGS02-KatujiTretes/hd": {
     "month": "2025-12",
     "accumulated_rx": 10176457122,
     "accumulated_tx": 77336317399,
     "last_session_id": "*80000491",
-    "last_session_rx": 1044407588,
-    "last_session_tx": 8843746493
+    "last_session_rx": 1133164441,
+    "last_session_tx": 9115002173
   },
   "kakung": {
     "month": "2025-12",
     "accumulated_rx": 3125446734,
     "accumulated_tx": 36505979925,
     "last_session_id": "*80000478",
-    "last_session_rx": 225079141,
-    "last_session_tx": 2508855114
+    "last_session_rx": 232942795,
+    "last_session_tx": 2633123196
   },
   "solikin": {
     "month": "2025-12",
     "accumulated_rx": 3026904672,
     "accumulated_tx": 31182270481,
     "last_session_id": "*800004B3",
-    "last_session_rx": 30846803,
-    "last_session_tx": 529270755
+    "last_session_rx": 31636665,
+    "last_session_tx": 540784540
   },
   "MGSPR-sogol": {
     "month": "2025-12",
     "accumulated_rx": 1661071480,
     "accumulated_tx": 28389729071,
     "last_session_id": "*800004A1",
-    "last_session_rx": 146208148,
-    "last_session_tx": 2470145201
+    "last_session_rx": 149559385,
+    "last_session_tx": 2547007449
   },
   "tunggak": {
     "month": "2025-12",
     "accumulated_rx": 1925932165,
     "accumulated_tx": 21475533277,
     "last_session_id": "*8000049C",
-    "last_session_rx": 62382549,
-    "last_session_tx": 1691464798
+    "last_session_rx": 62568537,
+    "last_session_tx": 1691943097
   },
   "fiki": {
     "month": "2025-12",
     "accumulated_rx": 8676122386,
     "accumulated_tx": 29010599136,
     "last_session_id": "*80000474",
-    "last_session_rx": 41760591,
-    "last_session_tx": 987128121
+    "last_session_rx": 45862632,
+    "last_session_tx": 1109786172
   },
   "TKL00-SK-Devi": {
     "month": "2025-12",
     "accumulated_rx": 2978704861,
     "accumulated_tx": 32935322686,
     "last_session_id": "*8000047A",
-    "last_session_rx": 205115687,
-    "last_session_tx": 3051531832
+    "last_session_rx": 209781638,
+    "last_session_tx": 3136124803
   },
   "TKL00-kurniawan": {
     "month": "2025-12",
     "accumulated_rx": 1899497217,
     "accumulated_tx": 30155934719,
     "last_session_id": "*800004BF",
-    "last_session_rx": 81588257,
-    "last_session_tx": 1881517442
+    "last_session_rx": 81617733,
+    "last_session_tx": 1881554702
   },
   "TKL00-bondet": {
     "month": "2025-12",
     "accumulated_rx": 1984375763,
     "accumulated_tx": 26782070156,
     "last_session_id": "*800004AA",
-    "last_session_rx": 86874853,
-    "last_session_tx": 1324561974
+    "last_session_rx": 96145140,
+    "last_session_tx": 1405354073
   },
   "01*SulSempu": {
     "month": "2025-12",
     "accumulated_rx": 1744980946,
     "accumulated_tx": 36008636730,
     "last_session_id": "*800004DB",
-    "last_session_rx": 113528022,
-    "last_session_tx": 3517110520
+    "last_session_rx": 117603196,
+    "last_session_tx": 3719819549
   },
   "TKL00-SK-Lina": {
     "month": "2025-12",
     "accumulated_rx": 4410313889,
     "accumulated_tx": 35867171463,
     "last_session_id": "*80000477",
-    "last_session_rx": 310744589,
-    "last_session_tx": 2879417273
+    "last_session_rx": 310970334,
+    "last_session_tx": 2882609970
   },
   "rakim": {
     "month": "2025-12",
     "accumulated_rx": 3006221065,
     "accumulated_tx": 38970916717,
     "last_session_id": "*80000487",
-    "last_session_rx": 184558840,
-    "last_session_tx": 3210489984
+    "last_session_rx": 187109264,
+    "last_session_tx": 3254707586
   },
   "nani": {
     "month": "2025-12",
     "accumulated_rx": 5880834098,
     "accumulated_tx": 79556190713,
     "last_session_id": "*8000047F",
-    "last_session_rx": 301626660,
-    "last_session_tx": 7733045013
+    "last_session_rx": 307374406,
+    "last_session_tx": 7938352557
   },
   "sukro": {
     "month": "2025-12",
     "accumulated_rx": 3360536737,
     "accumulated_tx": 78049287602,
     "last_session_id": "*80000484",
-    "last_session_rx": 39797986,
-    "last_session_tx": 387107234
+    "last_session_rx": 39973434,
+    "last_session_tx": 387562379
   },
   "binaprestasi": {
     "month": "2025-12",
     "accumulated_rx": 1077734221,
     "accumulated_tx": 9708501164,
     "last_session_id": "*8000048B",
-    "last_session_rx": 158821171,
-    "last_session_tx": 938161062
+    "last_session_rx": 159477624,
+    "last_session_tx": 941173048
   },
   "patbungur": {
     "month": "2025-12",
     "accumulated_rx": 1144970454,
     "accumulated_tx": 24054243016,
     "last_session_id": "*8000046C",
-    "last_session_rx": 128215997,
-    "last_session_tx": 2979096937
+    "last_session_rx": 128326237,
+    "last_session_tx": 2979827546
   },
   "hudi": {
     "month": "2025-12",
     "accumulated_rx": 0,
     "accumulated_tx": 0,
     "last_session_id": "*8000032D",
-    "last_session_rx": 2748047636,
-    "last_session_tx": 40860033531
+    "last_session_rx": 2749905687,
+    "last_session_tx": 40899650576
   },
   "kantorsd": {
     "month": "2025-12",
     "accumulated_rx": 1480612963,
     "accumulated_tx": 22142914276,
     "last_session_id": "*800004B0",
-    "last_session_rx": 132519970,
-    "last_session_tx": 3438506844
+    "last_session_rx": 132566080,
+    "last_session_tx": 3438541834
   },
   "TKL00-locoo": {
     "month": "2025-12",
     "accumulated_rx": 4999971376,
     "accumulated_tx": 18024429083,
     "last_session_id": "*80000486",
-    "last_session_rx": 387254571,
-    "last_session_tx": 1143243065
+    "last_session_rx": 412958040,
+    "last_session_tx": 1159419328
   },
   "dimaswarung": {
     "month": "2025-12",
     "accumulated_rx": 3577602277,
     "accumulated_tx": 42363974685,
     "last_session_id": "*80000493",
-    "last_session_rx": 321098692,
-    "last_session_tx": 4625245550
+    "last_session_rx": 330104431,
+    "last_session_tx": 4796430951
   },
   "wanto": {
     "month": "2025-12",
     "accumulated_rx": 2412097264,
     "accumulated_tx": 15060043947,
     "last_session_id": "*8000049E",
-    "last_session_rx": 24006428,
-    "last_session_tx": 346777033
+    "last_session_rx": 32041634,
+    "last_session_tx": 419439875
   },
   "WiwisTretes/hd": {
     "month": "2025-12",
     "accumulated_rx": 2165595828,
     "accumulated_tx": 21429488646,
     "last_session_id": "*8000048F",
-    "last_session_rx": 36616180,
-    "last_session_tx": 687994061
+    "last_session_rx": 40270641,
+    "last_session_tx": 748496914
   },
   "yodis": {
     "month": "2025-12",
     "accumulated_rx": 3000756,
     "accumulated_tx": 12341107,
     "last_session_id": "*800004AF",
-    "last_session_rx": 14305,
-    "last_session_tx": 28875
+    "last_session_rx": 30405,
+    "last_session_tx": 76991
   },
   "TKL-BR-JarnoBungur": {
     "month": "2025-12",
     "accumulated_rx": 1208221918,
     "accumulated_tx": 18484635119,
     "last_session_id": "*80000481",
-    "last_session_rx": 215345252,
-    "last_session_tx": 1508330886
+    "last_session_rx": 216226881,
+    "last_session_tx": 1510449550
   },
   "MGS02-NurKasan": {
     "month": "2025-12",
     "accumulated_rx": 3071618466,
     "accumulated_tx": 34509845617,
     "last_session_id": "*8000048C",
-    "last_session_rx": 142589208,
-    "last_session_tx": 2350341535
+    "last_session_rx": 148678823,
+    "last_session_tx": 2391768569
   },
   "BinaBalita": {
     "month": "2025-12",
     "accumulated_rx": 750164346,
     "accumulated_tx": 10867591359,
     "last_session_id": "*80000466",
-    "last_session_rx": 20858788,
-    "last_session_tx": 338413131
+    "last_session_rx": 20931542,
+    "last_session_tx": 338464450
   },
   "ustad": {
     "month": "2025-12",
     "accumulated_rx": 1934067971,
     "accumulated_tx": 14000356477,
     "last_session_id": "*80000472",
-    "last_session_rx": 88951047,
-    "last_session_tx": 608676463
+    "last_session_rx": 89999581,
+    "last_session_tx": 612994938
   },
   "yoga": {
     "month": "2025-12",
     "accumulated_rx": 1459085563,
     "accumulated_tx": 7046020773,
     "last_session_id": "*800004B8",
-    "last_session_rx": 27726173,
-    "last_session_tx": 285171474
+    "last_session_rx": 27906903,
+    "last_session_tx": 287316958
   },
   "dewikare": {
     "month": "2025-12",
     "accumulated_rx": 2457539276,
     "accumulated_tx": 39132197300,
     "last_session_id": "*80000464",
-    "last_session_rx": 143778614,
-    "last_session_tx": 1659936492
+    "last_session_rx": 144066098,
+    "last_session_tx": 1660250062
   },
   "kukuh": {
     "month": "2025-12",
@@ -572,208 +572,208 @@
     "accumulated_rx": 1151823202,
     "accumulated_tx": 12371613678,
     "last_session_id": "*800004AD",
-    "last_session_rx": 110123346,
-    "last_session_tx": 664145464
+    "last_session_rx": 110177795,
+    "last_session_tx": 664740449
   },
   "TKL03-BaldesTangkil": {
     "month": "2025-12",
     "accumulated_rx": 3432183543,
     "accumulated_tx": 45334997919,
     "last_session_id": "*800004E2",
-    "last_session_rx": 346523315,
-    "last_session_tx": 5266472140
+    "last_session_rx": 346570057,
+    "last_session_tx": 5266482910
   },
   "pirto": {
     "month": "2025-12",
     "accumulated_rx": 2272006437,
     "accumulated_tx": 35899025987,
     "last_session_id": "*80000468",
-    "last_session_rx": 71835756,
-    "last_session_tx": 1307330475
+    "last_session_rx": 77123018,
+    "last_session_tx": 1380859661
   },
   "MGS02-BajaTretes/hd": {
     "month": "2025-12",
     "accumulated_rx": 1448245574,
     "accumulated_tx": 21099656410,
     "last_session_id": "*8000048E",
-    "last_session_rx": 102841368,
-    "last_session_tx": 1590509724
+    "last_session_rx": 104075455,
+    "last_session_tx": 1645755214
   },
   "ridwan": {
     "month": "2025-12",
     "accumulated_rx": 1162127079,
     "accumulated_tx": 9331182781,
     "last_session_id": "*8000047B",
-    "last_session_rx": 63536476,
-    "last_session_tx": 493094996
+    "last_session_rx": 63680148,
+    "last_session_tx": 493386848
   },
   "MGS01-MalaTretes": {
     "month": "2025-12",
     "accumulated_rx": 2588321074,
     "accumulated_tx": 43251151145,
     "last_session_id": "*800004A4",
-    "last_session_rx": 228108874,
-    "last_session_tx": 3942261429
+    "last_session_rx": 232502044,
+    "last_session_tx": 4066124846
   },
   "MGS01-PainoTretes": {
     "month": "2025-12",
     "accumulated_rx": 2911824156,
     "accumulated_tx": 43168491713,
     "last_session_id": "*800004BA",
-    "last_session_rx": 127425456,
-    "last_session_tx": 2444081441
+    "last_session_rx": 129207107,
+    "last_session_tx": 2473526013
   },
   "TKL-BL-sabar": {
     "month": "2025-12",
     "accumulated_rx": 5494058840,
     "accumulated_tx": 45409232494,
     "last_session_id": "*800004A5",
-    "last_session_rx": 130879198,
-    "last_session_tx": 1430000130
+    "last_session_rx": 133911622,
+    "last_session_tx": 1454630807
   },
   "TKL-BL-alexatim": {
     "month": "2025-12",
     "accumulated_rx": 15783965731,
     "accumulated_tx": 93220409144,
     "last_session_id": "*8000049D",
-    "last_session_rx": 166501367,
-    "last_session_tx": 3324764792
+    "last_session_rx": 169920088,
+    "last_session_tx": 3380966318
   },
   "MGS01-MbahGali": {
     "month": "2025-12",
     "accumulated_rx": 586049286,
     "accumulated_tx": 4527530803,
     "last_session_id": "*80000489",
-    "last_session_rx": 1342154,
-    "last_session_tx": 4287120
+    "last_session_rx": 1371086,
+    "last_session_tx": 4329047
   },
   "TKL04-KR-HarnoKarang": {
     "month": "2025-12",
     "accumulated_rx": 3071969257,
     "accumulated_tx": 53762568120,
     "last_session_id": "*80000471",
-    "last_session_rx": 203816051,
-    "last_session_tx": 4488832679
+    "last_session_rx": 204108160,
+    "last_session_tx": 4489834610
   },
   "09*YaniNgledok": {
     "month": "2025-12",
     "accumulated_rx": 6406199515,
     "accumulated_tx": 60611413812,
     "last_session_id": "*800004E8",
-    "last_session_rx": 8135927,
-    "last_session_tx": 180329029
+    "last_session_rx": 8534281,
+    "last_session_tx": 182876570
   },
   "MGS02-Joledeng": {
     "month": "2025-12",
     "accumulated_rx": 3581208144,
     "accumulated_tx": 23720854882,
     "last_session_id": "*800004B7",
-    "last_session_rx": 133519854,
-    "last_session_tx": 1051284880
+    "last_session_rx": 138377389,
+    "last_session_tx": 1154277529
   },
   "TKL00-SK-Brina": {
     "month": "2025-12",
     "accumulated_rx": 2438905661,
     "accumulated_tx": 33321564116,
     "last_session_id": "*80000479",
-    "last_session_rx": 104828400,
-    "last_session_tx": 1596698765
+    "last_session_rx": 104887185,
+    "last_session_tx": 1596760156
   },
   "aasiis": {
     "month": "2025-12",
     "accumulated_rx": 608227796,
     "accumulated_tx": 4428270063,
     "last_session_id": "*800004A2",
-    "last_session_rx": 6678851,
-    "last_session_tx": 80392890
+    "last_session_rx": 6696370,
+    "last_session_tx": 80407649
   },
   "hasim": {
     "month": "2025-12",
     "accumulated_rx": 573787274,
     "accumulated_tx": 11928664811,
     "last_session_id": "*80000480",
-    "last_session_rx": 25856774,
-    "last_session_tx": 435685946
+    "last_session_rx": 30523592,
+    "last_session_tx": 549012308
   },
   "riyono": {
     "month": "2025-12",
     "accumulated_rx": 592220831,
     "accumulated_tx": 5403948948,
     "last_session_id": "*8000046F",
-    "last_session_rx": 13124769,
-    "last_session_tx": 142965654
+    "last_session_rx": 15727916,
+    "last_session_tx": 160755551
   },
   "kasni": {
     "month": "2025-12",
     "accumulated_rx": 3381683979,
     "accumulated_tx": 54363687999,
     "last_session_id": "*80000463",
-    "last_session_rx": 199519716,
-    "last_session_tx": 2929370925
+    "last_session_rx": 202349646,
+    "last_session_tx": 2981591712
   },
   "09*PaicongJobang": {
     "month": "2025-12",
     "accumulated_rx": 3112815275,
     "accumulated_tx": 35619255304,
     "last_session_id": "*800004D4",
-    "last_session_rx": 456408959,
-    "last_session_tx": 4503054991
+    "last_session_rx": 459621630,
+    "last_session_tx": 4586554826
   },
   "doto": {
     "month": "2025-12",
     "accumulated_rx": 2534100483,
     "accumulated_tx": 34182426670,
     "last_session_id": "*80000475",
-    "last_session_rx": 163066631,
-    "last_session_tx": 3328371254
+    "last_session_rx": 163311619,
+    "last_session_tx": 3328590074
   },
   "tubagus": {
     "month": "2025-12",
     "accumulated_rx": 2353768813,
     "accumulated_tx": 32527674670,
     "last_session_id": "*800004A8",
-    "last_session_rx": 232191620,
-    "last_session_tx": 4183236073
+    "last_session_rx": 232561185,
+    "last_session_tx": 4189702668
   },
   "09*JiminJobang1": {
     "month": "2025-12",
     "accumulated_rx": 1187123631,
     "accumulated_tx": 10542503701,
     "last_session_id": "*800004DC",
-    "last_session_rx": 396578975,
-    "last_session_tx": 2063393661
+    "last_session_rx": 400155754,
+    "last_session_tx": 2145509004
   },
   "09*BarminTosari": {
     "month": "2025-12",
     "accumulated_rx": 929471066,
     "accumulated_tx": 13210692641,
     "last_session_id": "*800004E5",
-    "last_session_rx": 6016646,
-    "last_session_tx": 60568151
+    "last_session_rx": 6055241,
+    "last_session_tx": 60639860
   },
   "09*ParNgledok": {
     "month": "2025-12",
     "accumulated_rx": 2547917918,
     "accumulated_tx": 44198318227,
     "last_session_id": "*800004E7",
-    "last_session_rx": 52920382,
-    "last_session_tx": 1197643355
+    "last_session_rx": 57855726,
+    "last_session_tx": 1343943719
   },
   "suralen": {
     "month": "2025-12",
     "accumulated_rx": 1068757300,
     "accumulated_tx": 19363048608,
     "last_session_id": "*8000049F",
-    "last_session_rx": 45202056,
-    "last_session_tx": 703046861
+    "last_session_rx": 46938016,
+    "last_session_tx": 735020229
   },
   "kardi": {
     "month": "2025-12",
     "accumulated_rx": 720650126,
     "accumulated_tx": 3707472275,
     "last_session_id": "*8000047E",
-    "last_session_rx": 78652764,
-    "last_session_tx": 824093037
+    "last_session_rx": 82156554,
+    "last_session_tx": 882596078
   },
   "TKL-KR-SUSIKARANG": {
     "month": "2025-12",
@@ -788,144 +788,144 @@
     "accumulated_rx": 448300509,
     "accumulated_tx": 5319821143,
     "last_session_id": "*80000483",
-    "last_session_rx": 76175770,
-    "last_session_tx": 1239615849
+    "last_session_rx": 79058306,
+    "last_session_tx": 1341663893
   },
   "rosa": {
     "month": "2025-12",
     "accumulated_rx": 636448207,
     "accumulated_tx": 5851461495,
     "last_session_id": "*800004DA",
-    "last_session_rx": 27894083,
-    "last_session_tx": 327660739
+    "last_session_rx": 29573233,
+    "last_session_tx": 344659133
   },
   "TKL00-Mela": {
     "month": "2025-12",
     "accumulated_rx": 1561906970,
     "accumulated_tx": 29148387303,
     "last_session_id": "*800004A3",
-    "last_session_rx": 143526290,
-    "last_session_tx": 2057683303
+    "last_session_rx": 145572134,
+    "last_session_tx": 2091854558
   },
   "TKL00-AGIS": {
     "month": "2025-12",
     "accumulated_rx": 1396278037,
     "accumulated_tx": 17406012845,
     "last_session_id": "*80000473",
-    "last_session_rx": 118986655,
-    "last_session_tx": 2132059736
+    "last_session_rx": 122645220,
+    "last_session_tx": 2225798995
   },
   "09*PaimanJobang": {
     "month": "2025-12",
     "accumulated_rx": 1011121169,
     "accumulated_tx": 13119796146,
     "last_session_id": "*80000467",
-    "last_session_rx": 347025015,
-    "last_session_tx": 4346371689
+    "last_session_rx": 366964779,
+    "last_session_tx": 4383772937
   },
   "kung": {
     "month": "2025-12",
     "accumulated_rx": 545545614,
     "accumulated_tx": 3357369592,
     "last_session_id": "*800004B2",
-    "last_session_rx": 72462344,
-    "last_session_tx": 565557676
+    "last_session_rx": 78297836,
+    "last_session_tx": 611162598
   },
   "TKL00-karman": {
     "month": "2025-12",
     "accumulated_rx": 152264729,
     "accumulated_tx": 3399964616,
     "last_session_id": "*800004C1",
-    "last_session_rx": 16782847,
-    "last_session_tx": 471281719
+    "last_session_rx": 16785113,
+    "last_session_tx": 471285239
   },
   "TKL-03-yayuk": {
     "month": "2025-12",
     "accumulated_rx": 430278122,
     "accumulated_tx": 6287998332,
     "last_session_id": "*800004EA",
-    "last_session_rx": 6071619,
-    "last_session_tx": 40167255
+    "last_session_rx": 8150461,
+    "last_session_tx": 50774843
   },
   "MGSPR-prapti": {
     "month": "2025-12",
     "accumulated_rx": 533310152,
     "accumulated_tx": 8404241818,
     "last_session_id": "*800004A7",
-    "last_session_rx": 117861007,
-    "last_session_tx": 2315966645
+    "last_session_rx": 118007317,
+    "last_session_tx": 2316192127
   },
   "jurit": {
     "month": "2025-12",
     "accumulated_rx": 318353060,
     "accumulated_tx": 6117740727,
     "last_session_id": "*800004A9",
-    "last_session_rx": 279236025,
-    "last_session_tx": 3259653487
+    "last_session_rx": 296353482,
+    "last_session_tx": 3356697487
   },
   "TKL00-sdn1tangkil": {
     "month": "2025-12",
     "accumulated_rx": 690785100,
     "accumulated_tx": 8663465341,
     "last_session_id": "*800004E9",
-    "last_session_rx": 39704234,
-    "last_session_tx": 537206502
+    "last_session_rx": 39773302,
+    "last_session_tx": 537547827
   },
   "TKL-BL-kento": {
     "month": "2025-12",
     "accumulated_rx": 401924691,
     "accumulated_tx": 3176354379,
     "last_session_id": "*800004CC",
-    "last_session_rx": 303355767,
-    "last_session_tx": 957154331
+    "last_session_rx": 303595244,
+    "last_session_tx": 957719557
   },
   "mrjuni": {
     "month": "2025-12",
     "accumulated_rx": 271866354,
     "accumulated_tx": 4717117929,
     "last_session_id": "*800004C2",
-    "last_session_rx": 109306352,
-    "last_session_tx": 2304647029
+    "last_session_rx": 109934411,
+    "last_session_tx": 2305286381
   },
   "iqbalpakel": {
     "month": "2025-12",
     "accumulated_rx": 384980456,
     "accumulated_tx": 6183444863,
     "last_session_id": "*800004CD",
-    "last_session_rx": 153370549,
-    "last_session_tx": 2265230669
+    "last_session_rx": 160030892,
+    "last_session_tx": 2454610210
   },
   "kandar": {
     "month": "2025-12",
     "accumulated_rx": 102377096,
     "accumulated_tx": 1590774205,
     "last_session_id": "*800004C6",
-    "last_session_rx": 3763893,
-    "last_session_tx": 32839648
+    "last_session_rx": 3766723,
+    "last_session_tx": 32842009
   },
   "MGS-PT-SrianaPakel": {
     "month": "2025-12",
     "accumulated_rx": 1276211910,
     "accumulated_tx": 5496400476,
     "last_session_id": "*800004C8",
-    "last_session_rx": 450954361,
-    "last_session_tx": 1542100093
+    "last_session_rx": 451503674,
+    "last_session_tx": 1543400883
   },
   "fajarpakel": {
     "month": "2025-12",
     "accumulated_rx": 1215755358,
     "accumulated_tx": 5201664028,
     "last_session_id": "*800004D2",
-    "last_session_rx": 174102314,
-    "last_session_tx": 2731573506
+    "last_session_rx": 178709637,
+    "last_session_tx": 2832035110
   },
   "paiconk": {
     "month": "2025-12",
     "accumulated_rx": 770785526,
     "accumulated_tx": 9929433075,
     "last_session_id": "*8000046D",
-    "last_session_rx": 169519399,
-    "last_session_tx": 3654654575
+    "last_session_rx": 173270997,
+    "last_session_tx": 3689390128
   },
   "fira": {
     "month": "2025-12",
@@ -940,8 +940,8 @@
     "accumulated_rx": 962484147,
     "accumulated_tx": 2143664569,
     "last_session_id": "*800004B5",
-    "last_session_rx": 68328638,
-    "last_session_tx": 511203822
+    "last_session_rx": 68378460,
+    "last_session_tx": 511277479
   },
   "mbahcarik": {
     "month": "2025-12",
@@ -956,48 +956,48 @@
     "accumulated_rx": 16508915,
     "accumulated_tx": 149946949,
     "last_session_id": "*800004AC",
-    "last_session_rx": 10468644,
-    "last_session_tx": 157156775
+    "last_session_rx": 10497471,
+    "last_session_tx": 157243036
   },
   "mukiran": {
     "month": "2025-12",
     "accumulated_rx": 7400575,
     "accumulated_tx": 34198715,
     "last_session_id": "*8000045E",
-    "last_session_rx": 3932344,
-    "last_session_tx": 15773717
+    "last_session_rx": 3940650,
+    "last_session_tx": 15785863
   },
   "TKL03-BG-Gendis": {
     "month": "2025-12",
     "accumulated_rx": 135753145,
     "accumulated_tx": 1307307493,
     "last_session_id": "*8000046B",
-    "last_session_rx": 116542413,
-    "last_session_tx": 819147388
+    "last_session_rx": 116678874,
+    "last_session_tx": 820040452
   },
   "duetduet": {
     "month": "2025-12",
     "accumulated_rx": 2492366582,
     "accumulated_tx": 7927070196,
     "last_session_id": "*80000469",
-    "last_session_rx": 78066626,
-    "last_session_tx": 1528863333
+    "last_session_rx": 83910803,
+    "last_session_tx": 1538469524
   },
   "TKL00-candra": {
     "month": "2025-12",
     "accumulated_rx": 283952378,
     "accumulated_tx": 3269948030,
     "last_session_id": "*800004C3",
-    "last_session_rx": 469666878,
-    "last_session_tx": 1111439120
+    "last_session_rx": 484312531,
+    "last_session_tx": 1137995501
   },
   "TKL-KR-MiniKarang": {
     "month": "2025-12",
     "accumulated_rx": 178315515,
     "accumulated_tx": 1833742723,
     "last_session_id": "*800004E4",
-    "last_session_rx": 45981073,
-    "last_session_tx": 1022075776
+    "last_session_rx": 46085282,
+    "last_session_tx": 1024477070
   },
   "09*RusdiNgledok": {
     "month": "2025-12",
@@ -1012,48 +1012,48 @@
     "accumulated_rx": 76927878,
     "accumulated_tx": 710655734,
     "last_session_id": "*80000497",
-    "last_session_rx": 373669512,
-    "last_session_tx": 2946015056
+    "last_session_rx": 376068635,
+    "last_session_tx": 2973528805
   },
   "AlHilal": {
     "month": "2025-12",
     "accumulated_rx": 86875269,
     "accumulated_tx": 1056738418,
     "last_session_id": "*800004E3",
-    "last_session_rx": 41069574,
-    "last_session_tx": 411331379
+    "last_session_rx": 41228431,
+    "last_session_tx": 412602231
   },
   "kanijan": {
     "month": "2025-12",
     "accumulated_rx": 101981446,
     "accumulated_tx": 1415069242,
     "last_session_id": "*800004E0",
-    "last_session_rx": 96032602,
-    "last_session_tx": 1113774723
+    "last_session_rx": 96266936,
+    "last_session_tx": 1114347151
   },
   "aifa": {
     "month": "2025-12",
     "accumulated_rx": 2202006,
     "accumulated_tx": 2134858,
     "last_session_id": "*800004C9",
-    "last_session_rx": 1072924,
-    "last_session_tx": 1024147
+    "last_session_rx": 1112049,
+    "last_session_tx": 1061527
   },
   "buusup": {
     "month": "2025-12",
     "accumulated_rx": 498874898,
     "accumulated_tx": 6685279595,
     "last_session_id": "*800004DE",
-    "last_session_rx": 534085411,
-    "last_session_tx": 4363894066
+    "last_session_rx": 549815518,
+    "last_session_tx": 4667619428
   },
   "warkop24": {
     "month": "2025-12",
     "accumulated_rx": 251444453,
     "accumulated_tx": 2952421308,
     "last_session_id": "*800004CE",
-    "last_session_rx": 287343101,
-    "last_session_tx": 7096975258
+    "last_session_rx": 292542449,
+    "last_session_tx": 7196517857
   },
   "KenthusJambe": {
     "month": "2025-12",
@@ -1068,8 +1068,8 @@
     "accumulated_rx": 83537497,
     "accumulated_tx": 431966383,
     "last_session_id": "*800004AB",
-    "last_session_rx": 65090388,
-    "last_session_tx": 428641616
+    "last_session_rx": 68563559,
+    "last_session_tx": 457845687
   },
   "MIKas": {
     "month": "2025-12",

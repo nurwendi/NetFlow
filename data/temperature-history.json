@@ -298,5 +298,10 @@
     "timestamp": 1765353999588,
     "temperature": 36,
     "sensorName": "temperature"
+  },
+  {
+    "timestamp": 1765354823426,
+    "temperature": 35,
+    "sensorName": "temperature"
   }
 ]
